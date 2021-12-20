@@ -10,3 +10,6 @@ https://cdn.discordapp.com/attachments/867713132307021845/922447739336421416/unk
 
 https://cdn.discordapp.com/attachments/867713132307021845/922447952692264970/Capture.JPG
 
+Simply download the RBLX and open it with Roblox Studio!
+Make sure to read the Read Me script in the serverside!
+
